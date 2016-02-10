@@ -1,0 +1,22 @@
+{
+  "name": "losp",
+  "version": "1.0.0",
+  "description": "Lagos Open Source Portal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.1",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "parse": "^1.7.0",
+    "parse-server": "^2.0.7",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0"
+  }
+}
